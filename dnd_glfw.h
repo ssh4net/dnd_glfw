@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2025-2026 Erium Vladlen
+//
 // Lightweight GLFW-based drag-and-drop helper
 // Header-only; C-style callbacks with minimal C++17 usage.
 
